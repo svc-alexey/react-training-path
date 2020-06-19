@@ -1,0 +1,26 @@
+#header {
+    background-color: cornflowerblue;
+    padding: 10px;
+}
+
+.headerLogo {
+}
+
+.headerInput {
+    background-color: white;
+    border-radius: 3px;
+}
+
+.headerInput input {
+    width: 400px;
+    height: 27px;
+    border: none;
+}
+
+.headerUser {
+
+}
+
+.MuiButton-root {
+    color: white;
+}
